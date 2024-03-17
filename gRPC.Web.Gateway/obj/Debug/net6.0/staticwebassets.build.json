@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wQzsRBfZQ2XKks818wedqGbl1HwZ0EPMg3HE1NDKTzk=",
+  "Source": "gRPC.Web.Gateway",
+  "BasePath": "_content/gRPC.Web.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

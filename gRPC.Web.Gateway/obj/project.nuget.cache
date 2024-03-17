@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zv7yHesA9eVcAfXxRafVxW8tVd6uaiyPzkPGYaLQDwDWfMwTYP2JN1vyWlSpKbtSMqSpRQHhR0vESyhJLFQIVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Foued Amami\\source\\repos\\grpc-demo\\gRPC.Web.Gateway\\gRPC.Web.Gateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Foued Amami\\.nuget\\packages\\yarp.reverseproxy\\1.1.2\\yarp.reverseproxy.1.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

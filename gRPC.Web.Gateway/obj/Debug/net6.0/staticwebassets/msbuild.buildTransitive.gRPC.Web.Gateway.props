@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\gRPC.Web.Gateway.props" />
+</Project>

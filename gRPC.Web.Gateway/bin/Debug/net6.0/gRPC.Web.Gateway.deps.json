@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gRPC.Web.Gateway/1.0.0": {
+        "dependencies": {
+          "Yarp.ReverseProxy": "1.1.2"
+        },
+        "runtime": {
+          "gRPC.Web.Gateway.dll": {}
+        }
+      },
+      "Yarp.ReverseProxy/1.1.2": {
+        "runtime": {
+          "lib/net6.0/Yarp.ReverseProxy.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.100.223.32205"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gRPC.Web.Gateway/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yarp.ReverseProxy/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p24vwUZ3sBJ308cUdm5kk57jZO0pvThDu0LuywaEPZcI1jZKMsRduwpu5mZLI1QyXjKC6Kl7bP96Kvvd4+9kjg==",
+      "path": "yarp.reverseproxy/1.1.2",
+      "hashPath": "yarp.reverseproxy.1.1.2.nupkg.sha512"
+    }
+  }
+}
